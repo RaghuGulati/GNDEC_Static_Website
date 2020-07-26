@@ -1,1 +1,1 @@
-
+# GNDEC Static Website 
